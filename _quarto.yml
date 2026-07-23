@@ -5,7 +5,7 @@ project:
 website:
   title: ""
   navbar:
-    logo: images/isbs10logo_lr.png
+    logo: imgs/isbs10logo_lr.png
     pinned: true
     right:
       - text: Register
