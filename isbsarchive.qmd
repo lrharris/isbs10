@@ -1,5 +1,5 @@
 ---
-title: "ISBS Archive"
+title: "ISBS archive"
 ---
 
 [*If anyone can help with missing information or documents, please share them with us so we can populate this archive.*]{.text-warning}
