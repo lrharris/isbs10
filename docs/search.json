@@ -2,15 +2,331 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "isbs10",
+    "title": "10th International Sandy Beach Symposium",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "The International Sandy Beach Symposium is a triennial conference focussed on the environmental, social and economic dimensions of sandy beach science, conservation, and management. First held in South Africa in 1983, the symposium returns to the Eastern Cape, with ISBS10 being held at the Cape St Francis Resort, 21-27 June 2027. Navigate through the menu to find out more.",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html#partners-and-sponsors",
+    "href": "index.html#partners-and-sponsors",
+    "title": "10th International Sandy Beach Symposium",
+    "section": "Partners and sponsors",
+    "text": "Partners and sponsors",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "workshopprep.html",
+    "href": "workshopprep.html",
+    "title": "Workshop preparation",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "The biodiversity workshop requires some homework ahead of the symposium. Completing this ahead of time means that we can focus our time in the workshop on reviewing the data we have collated, and planning the related publication.\nThe intent is to establish an online repository of species distributions and richness, summarised as species presence at an ecoregion level. We can then all use this as a living online reference, and as the basis for (1) a paper on global beach biodiversity (discussed at the conference), (2) iNaturalist project(s), and (3) species red listing. We can also use the planned interactive online tools to promote beaches as diverse ecosystems.\nPlease add as many records as you can to the Excel spreadsheet (contact Linda to request the link). Start by focusing on regions you are familiar with. After that, look for gaps in coverage, search for papers and reports, verified/correct iNaturalist records, and verified/correct gbif records, and record species presence in the various ecoregions.\nThe data from iNaturalist are exceptionally valuable for red listing and species distribution modelling, and this platform is an excellent way to use citizen science to detect species range shifts. A project for macrofauna has been started for our scientific community: Sandy Beach Invertebrates (Global). You’re encouraged to join iNaturalist, contribute records, and work through taxa of interest in our project to check they have been identified correctly. Species will be added to this project based on the species list created in the Excel spreadsheet. (The intent is to expand the scope of our iNaturalist projects to include other taxa as well, like foredune plants, shorebirds, etc. We can discuss this at ISBS10.)",
+    "crumbs": [
+      "Workshop preparation"
+    ]
+  },
+  {
+    "objectID": "registration.html",
+    "href": "registration.html",
+    "title": "Registration",
+    "section": "",
+    "text": "You’re advised to register and pay for the conference as soon as you are able to. This is primarily to secure your preferred type of accommodation, which is on a first come, first serve basis.\nFull conference registration will close on 30 April 2027. Day registration will continue to be available until 31 May 2027.",
+    "crumbs": [
+      "Registration"
+    ]
+  },
+  {
+    "objectID": "registration.html#full-conference",
+    "href": "registration.html#full-conference",
+    "title": "Registration",
+    "section": "Full conference",
+    "text": "Full conference\nWhat’s included: all meals and accommodation at Cape St Francis Resort from 20-27 June 2027; conference fees; return shuttles between PLZ airport and Cape St Francis Resort; field trip costs\n\nProfessional (own room): R24 000\nProfessional (shared room): R22 000\nStudent (own room): R20 000\nStudent (shared room): R18 000",
+    "crumbs": [
+      "Registration"
+    ]
+  },
+  {
+    "objectID": "registration.html#day-delegate",
+    "href": "registration.html#day-delegate",
+    "title": "Registration",
+    "section": "Day delegate",
+    "text": "Day delegate\nWhat’s included: conference fees for the day plus lunch\n\nProfessional: R1500\nStudent: R750",
+    "crumbs": [
+      "Registration"
+    ]
+  },
+  {
+    "objectID": "registration.html#non-delegate-travel-companion",
+    "href": "registration.html#non-delegate-travel-companion",
+    "title": "Registration",
+    "section": "Non-delegate travel companion",
+    "text": "Non-delegate travel companion\nAlthough this is an academic conference, we do understand that some people may need to bring non-delegate travel companions.\nWhat’s included: Dinner, bed and breakfast at at Cape St Francis Resort (including the conference dinner); return shuttles between PLZ airport and Cape St Francis Resort; field trip costs (including lunch)\n\nAdult (single): R15 000\nAdult (sharing): R13 000\nChild under 12 years (single): R9500\nChild under 12 years (sharing): R7500\nChild under 3 years (sharing): No cost",
+    "crumbs": [
+      "Registration"
+    ]
+  },
+  {
+    "objectID": "registration.html#cancellation-policy",
+    "href": "registration.html#cancellation-policy",
+    "title": "Registration",
+    "section": "Cancellation policy",
+    "text": "Cancellation policy\n\nBefore 1 January 2027: full refund\n1 January 2027 – 31 March 2027: 50% refund\nAfter 31 March 2027: No refund\n\nNote that there may be a delay in processing refunds.",
+    "crumbs": [
+      "Registration"
+    ]
+  },
+  {
+    "objectID": "registration.html#conference-sponsorship",
+    "href": "registration.html#conference-sponsorship",
+    "title": "Registration",
+    "section": "Conference sponsorship",
+    "text": "Conference sponsorship\nWe will be doing our best to raise funds to assist with the conference costs for students and delegates from developing countries who otherwise would be unable to attend the symposium. If successful in our fundraising efforts, we will open applications towards the end of the year. In your application, you will be asked to demonstrate what attempts you have made to secure your own funding, so please take the next few months to try and find relevant funding. Note: conference sponsorship is not guaranteed, will likely be limited, and you are strongly encouraged to source your own conference funding.\nRegister now",
+    "crumbs": [
+      "Registration"
+    ]
+  },
+  {
+    "objectID": "proceedings.html",
+    "href": "proceedings.html",
+    "title": "Conference proceedings",
+    "section": "",
+    "text": "A Virtual Special Issue of Estuarine, Coastal and Shelf Science has been requested, and is under discussion with the journal. We will update this page with further information when available.\nThe VSI associated with ISBS9 is shared here as an example of what we would like to produce.",
+    "crumbs": [
+      "Conference proceedings"
+    ]
+  },
+  {
+    "objectID": "merchandise.html",
+    "href": "merchandise.html",
+    "title": "ISBS10 merchandise",
+    "section": "",
+    "text": "We will be offering conference merchandise that you can purchase as an optional extra. We will post details of this here soon.",
+    "crumbs": [
+      "ISBS10 merchandise"
+    ]
+  },
+  {
+    "objectID": "contactus.html",
+    "href": "contactus.html",
+    "title": "Contact us",
+    "section": "",
+    "text": "Queries regarding registration, payment, and abstract submissions\nregistration@easternsun.co.za\nExtending your stay at Cape St Francis Resort\nbetty@capestfrancisresort.co.za\nOther\nLinda Harris: harris.linda.r@gmail.com\nCMR: cmr@mandela.ac.za",
+    "crumbs": [
+      "Contact us"
+    ]
+  },
+  {
+    "objectID": "accommodation.html",
+    "href": "accommodation.html",
+    "title": "Accommodation",
+    "section": "",
+    "text": "Accommodation\nCape St Francis has the following accommodation options:\nVillas (4-5 bedrooms)\nCottages (3-4 bedrooms)\nApartments (1-3 bedrooms)\nThe rooms are twin or double beds where you can stay on your own or share. Most rooms have en suite bathrooms; some have shared bathrooms. We will do our best to give everyone their first or second choice, but note that accommodation allocations will be on a first come (register and pay), first serve basis - so register soon to secure your ideal spot!\nFor those who will be sharing rooms and/or units, there will be an option in the registration form to indicate who you would like to share with. It would be very helpful if you could identify who the person/people is/are that you will share with, and then both indicate each other in the form so that we can match everyone up according to your preferences. If whole research groups would like to share one of the larger units with multiple bedrooms, please list all the people you’d like to share the unit with.\nIf you would like to extend your stay before or after the conference, you are welcome to book extra days at the Cape St Francis Resort. Please book this with the resort directly by email. Let them know you are part of the ISBS10 delegation to take advantage of our group rate. Note that your accommodation booking for the conference is from 20-27 June 2027.",
+    "crumbs": [
+      "Accommodation"
+    ]
+  },
+  {
+    "objectID": "callforabstracts.html",
+    "href": "callforabstracts.html",
+    "title": "Call for Abstracts",
+    "section": "",
+    "text": "Sandy beaches as threatened social-ecological systems: addressing local to global challenges through actionable pathways for change\nThe theme for ISBS10 links back to the theme of the first symposium in 1983, ‘Sandy beaches as ecosystems’, and highlights the advances in our understanding of sandy shores over the past four decades. It also acknowledges the deteriorating state of beaches worldwide, and the task that lies ahead of us to work together at multiple scales to secure beaches as diverse and productive ecosystems for current and future generations to enjoy.",
+    "crumbs": [
+      "Call for Abstracts"
+    ]
+  },
+  {
+    "objectID": "callforabstracts.html#contribution-formats",
+    "href": "callforabstracts.html#contribution-formats",
+    "title": "Call for Abstracts",
+    "section": "Contribution formats",
+    "text": "Contribution formats\nThe first three days of the symposium will comprise talks and poster sessions. We will be offering contributions of different lengths to keep the programme dynamic – you will have the option to select your top two preferences when you submit your abstract. To advertise the posters, we will also have ‘lightning rounds’ of very short talks with no questions (if you have questions, you can ask the presenter during the poster sessions).\n\n15 min talk + 5 min for questions\n12 min talk + 3 min for questions\n7 min talk + 3 min for questions\nPoster + 2 min talk",
+    "crumbs": [
+      "Call for Abstracts"
+    ]
+  },
+  {
+    "objectID": "callforabstracts.html#topics",
+    "href": "callforabstracts.html#topics",
+    "title": "Call for Abstracts",
+    "section": "Topics",
+    "text": "Topics\nYou can submit your abstract under one of the following topics\n\nBiodiversity patterns (species, habitats, ecosystems)\nEcological processes and ecosystem services\nPressures and impacts\nHuman dimensions and social-ecological systems\nPolicy, conservation, and management (includes coastal engineering, nature-based solutions)\nOther",
+    "crumbs": [
+      "Call for Abstracts"
+    ]
+  },
+  {
+    "objectID": "callforabstracts.html#submission-guidelines",
+    "href": "callforabstracts.html#submission-guidelines",
+    "title": "Call for Abstracts",
+    "section": "Submission guidelines",
+    "text": "Submission guidelines\nThe online abstract submission system has fields where you can add authors, their affiliations, and type (or paste) your abstract text. Note that the word limit for abstracts is 250 words.\nSubmit now",
+    "crumbs": [
+      "Call for Abstracts"
+    ]
+  },
+  {
+    "objectID": "logistics.html",
+    "href": "logistics.html",
+    "title": "Logistics and arrivals",
+    "section": "",
+    "text": "We will be offering shuttles from the Chief Dawid Stuurman/Port Elizabeth International Airport (PLZ) to Cape St Francis Resort on 20 June 2027. We will link the shuttle times with the flights landing from Johannesburg (JNB) and Cape Town (CPT) International Airports.\n\nIt takes ~1.5h to get to the resort from PLZ airport\nAccommodation check-in opens at 2pm\nThe welcome cocktail party in the evening will start at 6pm\n\nPlease take these logistics into account when booking your flights. We recommend landing at PLZ in the early afternoon, between 12:00 and 16:00.",
+    "crumbs": [
+      "Logistics and arrivals"
+    ]
+  },
+  {
+    "objectID": "logistics.html#arrival-shuttles-to-cape-st-francis-resort",
+    "href": "logistics.html#arrival-shuttles-to-cape-st-francis-resort",
+    "title": "Logistics and arrivals",
+    "section": "",
+    "text": "We will be offering shuttles from the Chief Dawid Stuurman/Port Elizabeth International Airport (PLZ) to Cape St Francis Resort on 20 June 2027. We will link the shuttle times with the flights landing from Johannesburg (JNB) and Cape Town (CPT) International Airports.\n\nIt takes ~1.5h to get to the resort from PLZ airport\nAccommodation check-in opens at 2pm\nThe welcome cocktail party in the evening will start at 6pm\n\nPlease take these logistics into account when booking your flights. We recommend landing at PLZ in the early afternoon, between 12:00 and 16:00.",
+    "crumbs": [
+      "Logistics and arrivals"
+    ]
+  },
+  {
+    "objectID": "logistics.html#departure-shuttles-back-to-plz-airport",
+    "href": "logistics.html#departure-shuttles-back-to-plz-airport",
+    "title": "Logistics and arrivals",
+    "section": "Departure: shuttles back to PLZ airport",
+    "text": "Departure: shuttles back to PLZ airport\nCheck out is at 10:00 on 27 June 2027. If there is no one booked in your room that night, you may keep your room until departure, otherwise the resort will be able to store your luggage until you leave.\nThere will be shuttles departing from the resort back to PLZ airport on 27 June, likely at:\n14:05 for the 18:05 flight to JNB (Johannesburg)\n14:40 for the 18:40 flight to CPT (Cape Town)\n16:35 for the 20:35 flight to CPT (Cape Town)\nThis is based on current flight schedules, and will be confirmed closer to the time. If you are leaving on 27 June, we recommend booking flights departing PLZ in the evening. If you flight leaves earlier than 6pm, you are likely to miss part of the final workshop.\nIf you choose to stay over and check out on 28 June, the resort has requested that you book that night’s accommodation with them directly (please email them). Check out is by 10:00. We will offer one shuttle in the morning, likely at 9:30 for the 13:30 flight to JNB (Johannesburg). If you are leaving on 28 June and want to make use of the shuttle provided, we recommend booking flights departing PLZ no earlier than 1:30 pm.",
+    "crumbs": [
+      "Logistics and arrivals"
+    ]
+  },
+  {
+    "objectID": "logistics.html#if-you-extend-your-stay-beforeafter-isbs10",
+    "href": "logistics.html#if-you-extend-your-stay-beforeafter-isbs10",
+    "title": "Logistics and arrivals",
+    "section": "If you extend your stay before/after ISBS10",
+    "text": "If you extend your stay before/after ISBS10\nIf you arrive earlier than 20 June 2027, you are welcome to self-drive to the resort, book a shuttle independently (we recommend JBay Cabs), or join one of the shuttles from the airport on 20 June 2027. Likewise, if you stay longer at Cape St Francis Resort after the conference, you can book a shuttle back to PLZ independently.",
+    "crumbs": [
+      "Logistics and arrivals"
+    ]
+  },
+  {
+    "objectID": "logistics.html#shuttle-sign-ups",
+    "href": "logistics.html#shuttle-sign-ups",
+    "title": "Logistics and arrivals",
+    "section": "Shuttle sign-ups",
+    "text": "Shuttle sign-ups\nWe will post a list of shuttle times in the coming months that you can sign up for. For now, the registration form includes an indication of which day(s) you would like to use the shuttles to help us with planning.",
+    "crumbs": [
+      "Logistics and arrivals"
+    ]
+  },
+  {
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "Outreach",
+    "section": "",
+    "text": "Something very exciting is under discussion… watch this space!",
+    "crumbs": [
+      "Outreach"
+    ]
+  },
+  {
+    "objectID": "programme.html",
+    "href": "programme.html",
+    "title": "Programme",
+    "section": "",
+    "text": "Possible outreach event (under discussion - to be confirmed)"
+  },
+  {
+    "objectID": "programme.html#pre-conference-19-june-2027",
+    "href": "programme.html#pre-conference-19-june-2027",
+    "title": "Programme",
+    "section": "",
+    "text": "Possible outreach event (under discussion - to be confirmed)"
+  },
+  {
+    "objectID": "programme.html#arrival-day-20-june-2027",
+    "href": "programme.html#arrival-day-20-june-2027",
+    "title": "Programme",
+    "section": "Arrival day (20 June 2027)",
+    "text": "Arrival day (20 June 2027)\n\nArrivals at PLZ airport, with shuttles to Cape St Francis Resort (check-in opens at 2pm)\nWelcome cocktail party for dinner"
+  },
+  {
+    "objectID": "programme.html#day-1-21-june-2027",
+    "href": "programme.html#day-1-21-june-2027",
+    "title": "Programme",
+    "section": "Day 1 (21 June 2027)",
+    "text": "Day 1 (21 June 2027)\n\nTalks and posters (focused on biodiversity patterns, ecological processes and ecosystem services)"
+  },
+  {
+    "objectID": "programme.html#day-2-22-june-2027",
+    "href": "programme.html#day-2-22-june-2027",
+    "title": "Programme",
+    "section": "Day 2 (22 June 2027)",
+    "text": "Day 2 (22 June 2027)\n\nTalks and posters (focused on pressures and impacts, human dimensions, and social-ecological systems)\n‘Collaborative Hackathon’ (optional) - developing an open-source R package for core sandy beach indices and indicators [to be confirmed depending on interest indicated during registration]"
+  },
+  {
+    "objectID": "programme.html#day-3-23-june-2027",
+    "href": "programme.html#day-3-23-june-2027",
+    "title": "Programme",
+    "section": "Day 3 (23 June 2027)",
+    "text": "Day 3 (23 June 2027)\n\nTalks and posters (focused on policy, conservation, and management)\nShort workshop on social-ecological systems\nConference dinner"
+  },
+  {
+    "objectID": "programme.html#day-4-24-june-2027",
+    "href": "programme.html#day-4-24-june-2027",
+    "title": "Programme",
+    "section": "Day 4 (24 June 2027)",
+    "text": "Day 4 (24 June 2027)\n\nField trip day, with these options for the morning:\n\n\nSurf at Jeffreys Bay\nGentle ~5 km beach walk from the resort, along Seal Bay, to the Cape St Francis Port. It will include a short section where we will walk through the last remnant of the famous headland bypass dune system in the Cape St Francis Nature Reserve. We will be collected by a bus or shuttles, and drive to points of interest relevant for coastal management between the port and Jeffreys Bay.\nEnjoy the resort and catch the bus/shuttle to collect the beach walkers, and drive to points of interest relevant for coastal management between the port and Jeffreys Bay.\n\n\nAll have lunch together in Jeffreys Bay, and take the shuttles back to the resort\nOpen afternoon for informal networking\nOptional documentary screening before dinner\nDinner"
+  },
+  {
+    "objectID": "programme.html#day-5-25-june-2027",
+    "href": "programme.html#day-5-25-june-2027",
+    "title": "Programme",
+    "section": "Day 5 (25 June 2027)",
+    "text": "Day 5 (25 June 2027)\n\nConservation impact workshop focusing on wrack management (linked to the TIDELINES project) and the impact we want to make as a scientific community – and how to achieve it\n\nPlanned output: possible publication and/or working document/workplan for our scientific community"
+  },
+  {
+    "objectID": "programme.html#day-6-26-june-2027",
+    "href": "programme.html#day-6-26-june-2027",
+    "title": "Programme",
+    "section": "Day 6 (26 June 2027)",
+    "text": "Day 6 (26 June 2027)\n\nGlobal patterns in sandy beach species (richness, endemism, gaps), species red listing (see Workshop preparation)\n\nPlanned output: Publication and dataset"
+  },
+  {
+    "objectID": "programme.html#day-7-27-june-2027",
+    "href": "programme.html#day-7-27-june-2027",
+    "title": "Programme",
+    "section": "Day 7 (27 June 2027)",
+    "text": "Day 7 (27 June 2027)\nBeach ecosystem classification (linked to the Beaches for Life! project), red listing, and model of ecosystem collapse\nPlanned output: Publication\nShuttles back to PLZ airport in the afternoon."
+  },
+  {
+    "objectID": "tourism.html",
+    "href": "tourism.html",
+    "title": "Tourism information",
+    "section": "",
+    "text": "Here are some recommendations for local and national travel. Remember, South Africa does not have good public transport, so either rent a car or use platforms like Uber. South Africans drive on the left side of the road.",
+    "crumbs": [
+      "Tourism information"
+    ]
+  },
+  {
+    "objectID": "tourism.html#short-trips",
+    "href": "tourism.html#short-trips",
+    "title": "Tourism information",
+    "section": "Short trips",
+    "text": "Short trips\n\nSafari experience\nIf you have limited time but want to see something of South Africa, we recommend arriving a day or so early, hiring a car, and driving to Addo Elephant National Park (Main Camp is ~1.5h from the airport) where you can stay for a night or two. Or, if your flight arrives late in the afternoon/evening, sleep over in Port Elizabeth and head to Addo early the next day. Although not as large as Kruger National Park, Addo has the ‘big 5’ and you’re virtually guaranteed to see elephants (Hapoor Dam is one of Linda’s favourite spots in the park). You can do a day trip to Addo, but remember that the best times to see the animals are early in the morning and in the later afternoon, although you’ll still see some wildlife if you drive during the day. If you sleep over, you can join one of the game drives with a guide. We recommend driving to the park via the N2-N10.\n\n\nSundays beach/Alexandria dunefield\nWe’ve all read the foundational beach ecology, a lot of which came from sampling the Sundays River beach. These beautiful beaches and the largest mobile active dunefield in the southern hemisphere are a short 40 min drive from the airport. It’s a really special place to visit! Access the beach via the Pearson Park Resort (paid entry). It’s a bit cryptic to get there. Take the Colchester turn off from the N2, drive behind the petrol station and Spar shop to get onto Jetty Street. The reception is here: -33.690495, 25.828651. For the best of both worlds, spend a night at Addo, and visit Sundays on the way there or back. There is accommodation at Pearson Park Resort, and in the adjacent Colchester town.\n\n\nStay in the bay\nStay in Port Elizabeth (Humewood and Summerstrand are lovely spots with lots of accommodation) and visit the beachfront, take a boat ride with Raggy Charters to see cetaceans, seals and seabirds, dive with ProDive, or visit Sardinia Bay MPA or Maitlands beach. You could also visit SANCCOB at Cape Recife to see Critically Endangered African Penguins. For something active, the waves are generally small to surf in the bay, but are great on a good day, and there’s a very active, inclusive open-water swimming community that does group swims virtually daily from Hobie Beach year-round. People run along the beachfront all the time, most commonly in the mornings. The Boardwalk shopping centre is very popular, and there are street vendors selling curios along most of the beach front. A little further out of town is Crossways (Three Rivers Trails) and Lady’s Slipper, which are lovely spots for hikes and bike rides through the fynbos. (To hire a bicycle, reach out to one of the local bike shops, e.g. Coimbra).\nRecommended restaurants: Most restaurants in Port Elizabeth make great food and have good service. Popular spots are Charlies, Something Good, Remos, Bocadillos, Angelos, Barneys, San Fernandos, Ginger at the Beach Hotel, De Kelder, and Hussar Grill. This is Eat! at the harbour serves fresh fish caught in the bay. Further out of town, Grass Roof is fabulous – and nice to combine with a trip to Sardinia Bay MPA or Maitlands. Crossways (half way to JBay) has a farm-kitchen restaurant, and often has markets on Sundays.\nRecommended accommodation in PE: Humewood and Summerstrand are great suburbs to stay in. They are close to the beach, restaurants and shops, and are &lt;15 min from the airport. There are lots of hotels, guest houses, and BnBs where you could stay.\n\n\nSurf Supers\nBook a shuttle (e.g. with JBay Cabs) to take you to Jeffreys Bay to surf the world-famous Supertubes for a day or two. JBay Cabs could also drop you off at Cape St Francis Resort when you’re done surfing. There is a lot of accommodation at Supertubes and in Jeffreys Bay.",
+    "crumbs": [
+      "Tourism information"
+    ]
+  },
+  {
+    "objectID": "tourism.html#make-a-trip-of-it",
+    "href": "tourism.html#make-a-trip-of-it",
+    "title": "Tourism information",
+    "section": "Make a trip of it",
+    "text": "Make a trip of it\n\nGarden Route road trip\nBook your long haul flight to land in Cape Town (CPT) and hire a car. Road trip from Cape Town to the conference, stopping at some of the beautiful beaches and points of interest along the Garden Route. Places like Hermanus, Cape Agulhas (southern tip of Africa), Struisbaai, De Hoop MPA, Stilbaai, Wilderness, Knysna, Plettenberg Bay, Natures Valley, and Tsitsikamma are all lovely. Alternatively, rent a car after the conference and drive back along the Garden Route to Cape Town before flying home.\n\n\nNational Treasures\nSome of the iconic places in South Africa not already mentioned are iSimangaliso Wetland Park (Cape Vidal and Sodwana within the park are probably most easily accessible spots), Kruger National Park, Cape Town, Table Mountain National Park (including Cape Point) and Langebaan (West Coast National Park). All the national (SANParks) or provincial parks (Cape Nature, Ezemvelo) are lovely.",
+    "crumbs": [
+      "Tourism information"
+    ]
   }
 ]

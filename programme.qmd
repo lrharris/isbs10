@@ -1,0 +1,69 @@
+---
+title: "Programme"
+---
+
+## Pre-conference (19 June 2027)
+
+Possible outreach event (under discussion - to be confirmed)
+
+## Arrival day (20 June 2027)
+
+- Arrivals at PLZ airport, with shuttles to Cape St Francis Resort (check-in opens at 2pm)
+
+- Welcome cocktail party for dinner
+
+## Day 1 (21 June 2027)
+
+- Talks and posters (focused on biodiversity patterns, ecological processes and ecosystem services)
+
+## Day 2 (22 June 2027)
+
+- Talks and posters (focused on pressures and impacts, human dimensions, and social-ecological systems)
+
+- ‘Collaborative Hackathon’ (optional) - developing an open-source R package for core sandy beach indices and indicators \[to be confirmed depending on interest indicated during registration\]
+
+## Day 3 (23 June 2027)
+
+- Talks and posters (focused on policy, conservation, and management)
+
+- Short workshop on social-ecological systems
+
+- Conference dinner
+
+## Day 4 (24 June 2027)
+
+- Field trip day, with these options for the morning:
+
+1.  Surf at Jeffreys Bay
+
+2.  Gentle \~5 km beach walk from the resort, along Seal Bay, to the Cape St Francis Port. It will include a short section where we will walk through the last remnant of the famous headland bypass dune system in the [Cape St Francis Nature Reserve](https://stfranciskrommetrust.co.za/cape-st-francis-nature-reserves/){target="_blank"}. We will be collected by a bus or shuttles, and drive to points of interest relevant for coastal management between the port and Jeffreys Bay.
+
+3.  Enjoy the resort and catch the bus/shuttle to collect the beach walkers, and drive to points of interest relevant for coastal management between the port and Jeffreys Bay.
+
+- All have lunch together in Jeffreys Bay, and take the shuttles back to the resort
+
+- Open afternoon for informal networking
+
+- Optional documentary screening before dinner
+
+- Dinner
+
+## Day 5 (25 June 2027)
+
+- Conservation impact workshop focusing on wrack management (linked to the TIDELINES project) and the impact we want to make as a scientific community – and how to achieve it
+
+Planned output: possible publication and/or working document/workplan for our scientific community
+
+## Day 6 (26 June 2027)
+
+- Global patterns in sandy beach species (richness, endemism, gaps), species red listing (see [Workshop preparation](workshopprep.qmd))
+
+Planned output: Publication and dataset 
+
+## Day 7 (27 June 2027)
+
+Beach ecosystem classification (linked to the Beaches for Life! project), red listing, and model of ecosystem collapse
+
+Planned output: Publication
+
+Shuttles back to PLZ airport in the afternoon.

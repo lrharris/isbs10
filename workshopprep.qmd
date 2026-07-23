@@ -1,0 +1,12 @@
+---
+title: "Workshop preparation"
+sidebar: isbs10
+---
+
+The biodiversity workshop requires some homework ahead of the symposium. Completing this ahead of time means that we can focus our time in the workshop on reviewing the data we have collated, and planning the related publication.
+
+The intent is to establish an online repository of species distributions and richness, summarised as species presence at an ecoregion level. We can then all use this as a living online reference, and as the basis for (1) a paper on global beach biodiversity (discussed at the conference), (2) iNaturalist project(s), and (3) species red listing. We can also use the planned interactive online tools to promote beaches as diverse ecosystems.
+
+Please add as many records as you can to the Excel spreadsheet ([contact Linda](contactus.qmd) to request the link). Start by focusing on regions you are familiar with. After that, look for gaps in coverage, search for papers and reports, verified/correct iNaturalist records, and verified/correct gbif records, and record species presence in the various ecoregions.
+
+The data from iNaturalist are exceptionally valuable for red listing and species distribution modelling, and this platform is an excellent way to use citizen science to detect species range shifts. A project for macrofauna has been started for our scientific community: [Sandy Beach Invertebrates (Global)](https://www.inaturalist.org/projects/sandy-beach-invertebrates-global){target="_blank"}. You’re encouraged to join iNaturalist, contribute records, and work through taxa of interest in our project to check they have been identified correctly. Species will be added to this project based on the species list created in the Excel spreadsheet. (The intent is to expand the scope of our iNaturalist projects to include other taxa as well, like foredune plants, shorebirds, etc. We can discuss this at ISBS10.)

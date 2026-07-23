@@ -6,11 +6,25 @@ website:
   title: ""
   navbar:
     logo: images/isbs10logo_lr.png
-    right:
+    pinned: true
+  
+  sidebar:
+    style: docked
+    search: true
+    contents:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
+      - href: callforabstracts.qmd
+      - href: registration.qmd
+      - href: iprogramme.qmd
+      - href: workshopprep.qmd
+      - href: proceedings.qmd
+      - href: accommodation.qmd
+      - href: logistics.qmd
+      - href: tourism.qmd
+      - href: merchandise.qmd
+      - href: outreach.qmd
+      - href: contactus.qmd
 
 format:
   html:
