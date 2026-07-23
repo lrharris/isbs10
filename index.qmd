@@ -11,9 +11,9 @@ The **10th International Sandy Beach Symposium** will be held at the **Cape St F
 ## Partners and sponsors
 
 ::: {style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center;"}
-<img src="images/BFL_logo.png" style="height:70px; margin:0 0.5rem;"/> <img src="images/mandelauni.png" style="height:70px; margin:0 0.5rem;"/> <img src="images/cmr.jpg" style="height:70px; margin:0 0.5rem;"/>
+<img src="imgs/BFL_logo.png" style="height:70px; margin:0 0.5rem;"/> <img src="imgs/mandelauni.png" style="height:70px; margin:0 0.5rem;"/> <img src="imgs/cmr.jpg" style="height:70px; margin:0 0.5rem;"/>
 :::
 
 ::: {style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center;"}
-<img src="images/Biodiversa.jpg" style="height:70px; margin:0 0.5rem;"/> <img src="images/TIDELINES.png" style="height:70px; margin:0 0.5rem;"/>
+<img src="imgs/Biodiversa.jpg" style="height:70px; margin:0 0.5rem;"/> <img src="imgs/TIDELINES.png" style="height:70px; margin:0 0.5rem;"/>
 :::
