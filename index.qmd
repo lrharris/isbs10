@@ -10,10 +10,45 @@ The **10th International Sandy Beach Symposium** will be held at the **Cape St F
 
 ## Partners and sponsors
 
-::: {style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center;"}
-<img src="imgs/BFL_logo.png" style="height:70px; margin:0 0.5rem;"/> <img src="imgs/mandelauni.png" style="height:70px; margin:0 0.5rem;"/> <img src="imgs/cmr.jpg" style="height:70px; margin:0 0.5rem;"/>
-:::
+```{=html}
+<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center;">
 
-::: {style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center;"}
-<img src="imgs/Biodiversa.jpg" style="height:70px; margin:0 0.5rem;"/> <img src="imgs/TIDELINES.png" style="height:70px; margin:0 0.5rem;"/>
-:::
+  <div style="margin:0.5rem 1rem;">
+    <a href="https://www.sandybeachscience.org" target="_blank">
+      <img src="imgs/BFL_logo.png" height="70">
+    </a>
+  </div>
+
+  <div style="margin:0.5rem 1rem;">
+    <a href="https://www.mandela.ac.za/" target="_blank">
+      <img src="imgs/mandelauni.png" height="70">
+    </a>
+  </div>
+
+  <div style="margin:0.5rem 1rem;">
+    <a href="https://cmr.mandela.ac.za/" target="_blank">
+      <img src="imgs/cmr.jpg" height="70">
+    </a>
+  </div>
+
+</div>
+```
+
+```{=html}
+<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center;">
+
+  <div style="margin:0.5rem 1rem;">
+    <a href="https://www.biodiversa.eu/2026/04/03/tidelines/" target="_blank">
+      <img src="imgs/Biodiversa.jpg" height="70">
+    </a>
+  </div>
+
+  <div style="margin:0.5rem 1rem;">
+    <a href="https://www.biodiversa.eu/2026/04/03/tidelines/" target="_blank">
+      <img src="imgs/TIDELINES.png" height="70">
+    </a>
+  </div>
+
+</div>
+```
+
