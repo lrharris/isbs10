@@ -36,6 +36,8 @@ The first three days of the symposium will comprise talks and poster sessions. W
 
 ## Submission guidelines
 
-The online abstract submission system has fields where you can add authors, their affiliations, and type (or paste) your abstract text. Note that the word limit for abstracts is 250 words.
+The online abstract submission system has fields where you can add authors, their affiliations, and type (or paste) your abstract text. Note that the word limit for abstracts is **250 words**.
+
+**The deadline for submission is 28 February 2027.** We are opening the call early to allow plenty of time for you to apply for conference funding (which often requires confirmation of a submitted abstract).
 
 [Submit now]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"}
