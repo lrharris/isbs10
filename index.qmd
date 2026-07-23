@@ -34,15 +34,14 @@ The **10th International Sandy Beach Symposium** will be held at the **Cape St F
   <div style="margin:0.5rem 1rem;">
     <a href="https://www.sandybeachscience.org" target="_blank">
       <img src="imgs/BFL_logo.png" 
-      height="70" style="background-color:#ffffff; padding:0.5rem; border-radius:6px;">
+      height="70">
     </a>
   </div>
 
   <div style="margin:0.5rem 1rem;">
     <a href="https://www.mandela.ac.za/" target="_blank">
       <img src="imgs/mandelauni.png"
-      height="70"
-       style="background-color:#ffffff; padding:0.5rem; border-radius:2px;">
+      height="70">
     </a>
   </div>
 
