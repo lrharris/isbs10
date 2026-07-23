@@ -3,13 +3,14 @@ project:
   output-dir: docs
   
 website:
-  title: "ISBS10"
+  title: ""
   navbar:
-  logo: images/isbs10_logo.png
-    left:
+    logo: images/isbs10logo_lr.png
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
 
 format:
   html:
