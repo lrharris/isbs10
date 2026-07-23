@@ -13,3 +13,7 @@
   background-size: cover;
   background-position: center;
 }
+
+.isbs-title .callout-title {
+  font-size: 5rem !important;
+}

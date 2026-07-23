@@ -7,6 +7,14 @@ website:
   navbar:
     logo: images/isbs10logo_lr.png
     pinned: true
+    right:
+      - text: Register
+    #    href: "https://beachsymposium.org"""
+        target: _blank
+
+      - text: Submit abstract
+    #    href: https://beachsymposium.org
+        target: _blank
   
   sidebar:
     style: docked
@@ -24,7 +32,9 @@ website:
       - href: tourism.qmd
       - href: merchandise.qmd
       - href: outreach.qmd
+      - href: isbsarchive.qmd
       - href: contactus.qmd
+      
 
 format:
   html:

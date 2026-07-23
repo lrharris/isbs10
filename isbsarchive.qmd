@@ -1,0 +1,77 @@
+---
+title: "ISBS Archive"
+---
+
+[*If anyone can help with missing information or documents, please share them with us so we can populate this archive.*]{.text-warning}
+
+::: {#isbsI .callout-note collapse="true" icon="false"}
+## ISBS I: Sandy beaches as ecosystems
+
+Port Elizabeth, South Africa \| 17-21 January 1993
+
+[Book of abstracts]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"} [Conference proceedings](https://link.springer.com/book/10.1007/978-94-017-2938-3){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
+:::
+
+::: {#isbsII .callout-note collapse="true" icon="false"}
+## ISBS II: Sandy beaches '94
+
+Valdivia, Chile \| 12-16 September 1994
+
+[Book of abstracts]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"} [Conference proceedings](https://rchn.biologiachile.cl/en/contents/1996v69n4.php){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
+:::
+
+::: {#isbsIII .callout-note collapse="true" icon="false"}
+## ISBS III: Beaches - what future? An integrated approach to the ecology and evolution of beaches and sand dunes
+
+Florence, Italy \| 18-23 October 2001
+
+[Book of abstracts]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"} [Conference proceedings](https://www.sciencedirect.com/journal/estuarine-coastal-and-shelf-science/vol/58/suppl/S){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
+:::
+
+::: {#isbsIV .callout-note collapse="true" icon="false"}
+## ISBS IV: Advances in sandy shore ecology
+
+Vigo, Spain \| 9-13 September 2006
+
+[Book of abstracts]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"} [Conference proceedings]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"}
+:::
+
+::: {#isbsV .callout-note collapse="true" icon="false"}
+## ISBS V: Sandy beaches and coastal zone management
+
+Rabat, Morocco \| 19-23 October 2009
+
+[Book of abstracts]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"} [Conference proceedings](https://www.researchgate.net/publication/325989110_Sandy_beaches_and_coastal_zone_management_-_Proceeding_of_the_Fifth_International_Symposium_on_Sandy_Beaches_19-23_October_2009_Rabat_Marocco){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
+:::
+
+::: {#isbsVI .callout-note collapse="true" icon="false"}
+## ISBS VI: Sandy beaches 2012: a new paradigm in the face of global change
+
+Mpekweni, South Africa \| 23-28 June 2012
+
+[Book of abstracts]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"} [Conference proceedings](https://www.sciencedirect.com/journal/estuarine-coastal-and-shelf-science/vol/150/part/PA){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
+:::
+
+::: {#isbsVII .callout-note collapse="true" icon="false"}
+## ISBS VII: Linking science and decision making for beach sustainability
+
+Ilhabella, Brazil \| 6-10 July 2015
+
+[Book of abstracts]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"} [Conference proceedings]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"}
+:::
+
+::: {#isbsVIII .callout-note collapse="true" icon="false"}
+## ISBS VIII: Linking knowledge to build integrated paradigms and face global change challenges
+
+Greece \| 2018
+
+[Book of abstracts]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"} [Conference proceedings]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"}
+:::
+
+::: {#isbsIX .callout-note collapse="true" icon="false"}
+## ISBS IX: Sustaining sandy beach systems functionality with quality data, integrated research, multi targeted communication
+
+Lecce, Italy \| June 2024
+
+[Book of abstracts]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"} [Conference proceedings](https://www.sciencedirect.com/special-issue/1039ZDZS7R5){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
+:::

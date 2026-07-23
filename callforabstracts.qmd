@@ -2,7 +2,7 @@
 title: "Call for Abstracts"
 ---
 
-**Sandy beaches as threatened social-ecological systems: addressing local to global challenges through actionable pathways for change**
+[**Sandy beaches as threatened social-ecological systems: addressing local to global challenges through actionable pathways for change**]{.text-primary style="font-size: 1.4rem;"}
 
 The theme for ISBS10 links back to the theme of the first symposium in 1983, ‘Sandy beaches as ecosystems’, and highlights the advances in our understanding of sandy shores over the past four decades. It also acknowledges the deteriorating state of beaches worldwide, and the task that lies ahead of us to work together at multiple scales to secure beaches as diverse and productive ecosystems for current and future generations to enjoy.
 
@@ -38,4 +38,4 @@ The first three days of the symposium will comprise talks and poster sessions. W
 
 The online abstract submission system has fields where you can add authors, their affiliations, and type (or paste) your abstract text. Note that the word limit for abstracts is 250 words.
 
-[Submit now](https://sandybeachscience.org){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
+[Submit now]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"}

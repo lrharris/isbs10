@@ -56,4 +56,4 @@ Note that there may be a delay in processing refunds.
 
 We will be doing our best to raise funds to assist with the conference costs for **students and delegates from developing countries who otherwise would be unable to attend the symposium**. If successful in our fundraising efforts, we will open applications towards the end of the year. In your application, you will be asked to demonstrate what attempts you have made to secure your own funding, so please take the next few months to try and find relevant funding. Note: conference sponsorship is **not guaranteed**, will likely be limited, and you are **strongly encouraged to source your own conference funding.**
 
-[Register now](https://sandybeachscience.org){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
+[Register now]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"}
