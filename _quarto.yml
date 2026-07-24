@@ -24,7 +24,7 @@ website:
         text: Home
       - href: callforabstracts.qmd
       - href: registration.qmd
-      - href: iprogramme.qmd
+      - href: programme.qmd
       - href: workshopprep.qmd
       - href: proceedings.qmd
       - href: accommodation.qmd
