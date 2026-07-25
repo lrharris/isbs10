@@ -20,3 +20,25 @@ The data from iNaturalist are exceptionally valuable for red listing and species
 Although this is helpful but not essential for the symposium workshop, you’re encouraged to join and promote iNaturalist, contribute records, and work through taxa of interest in our project to check they have been identified correctly.
 
 Species will be added to this project based on the species list created in the Excel spreadsheet. (The intent is to expand the scope of our iNaturalist projects to include other taxa as well, like foredune plants, shorebirds, etc. We can discuss this at ISBS10.)
+
+::: inat-widget
+**Latest observations**
+
+```{=html}
+<script
+  type="text/javascript"
+  charset="utf-8"
+  src="https://www.inaturalist.org/observations/project/254092.widget?layout=small&limit=12&order=desc&order_by=submitted_on">
+</script>
+```
+
+```{=html}
+<div class="inat-footer">
+    Explore more observations at
+    <strong><a href="https://www.inaturalist.org/projects/sandy-beach-invertebrates-global" target="_blank">
+      Sandy Beach Invertebrates (Global) »
+    </a>
+  </strong>
+</div>
+```
+:::
