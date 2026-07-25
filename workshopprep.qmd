@@ -1,6 +1,5 @@
 ---
 title: "Workshop preparation"
-sidebar: isbs10
 ---
 
 ## Online biodiversity repository
