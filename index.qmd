@@ -32,7 +32,7 @@ The **10th International Sandy Beach Symposium** will be held at the **Cape St F
 <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center;">
 
   <div style="margin:0.5rem 1rem;">
-    <a href="https://www.sandybeachscience.org" target="_blank">
+    <a href="https://sandybeachscience.org/beachesforlife/bfl_home.html" target="_blank">
       <img src="imgs/BFL_logo.png" 
       height="70">
     </a>
