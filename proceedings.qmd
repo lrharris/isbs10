@@ -2,6 +2,6 @@
 title: "Conference proceedings"
 ---
 
-A Virtual Special Issue of Estuarine, Coastal and Shelf Science has been requested. The journal decision is pending but feedback is that it is most likely to be supported. We will update this page with further information when available.
+A Virtual Special Issue of Estuarine, Coastal and Shelf Science has been requested. The final journal decision is pending but feedback to date is that it most likely will be supported. We will update this page with further information when available.
 
 See the [ISBS10 archive](isbsarchive.qmd) for examples of past conference proceedings.

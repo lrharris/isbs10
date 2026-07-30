@@ -48,7 +48,7 @@ You can save a draft of your abstract and log back in at a later stage to finish
 
 You will receive a confirmation email of your abstract submission.
 
-**The deadline for submissions is 28 February 2027.** We are opening the call early to allow plenty of time for you submit your abstract and apply for conference funding (which often requires confirmation of a submitted abstract).
+**The deadline for submissions is 28 February 2027.** We are opening the call early to allow plenty of time for you to submit your abstract and apply for conference funding (which often requires confirmation of a submitted abstract).
 
 If you have any technical queries regarding abstract submission, please email the [technical team](contactus.qmd).
 
