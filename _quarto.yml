@@ -9,11 +9,11 @@ website:
     pinned: true
     right:
       - text: Register
-    #    href: "https://beachsymposium.org"""
+        href: https://easternsun.eventsair.com/2027-sandy-beach-symposium/isbs10---delegate-registration-form/Site/Register
         target: _blank
 
       - text: Submit abstract
-    #    href: https://beachsymposium.org
+        href: https://easternsun.eventsair.com/2027-sandy-beach-symposium/call-for-abstracts
         target: _blank
   
   sidebar:
