@@ -15,6 +15,12 @@ website:
       - text: Submit abstract
         href: https://easternsun.eventsair.com/2027-sandy-beach-symposium/call-for-abstracts
         target: _blank
+        
+      - icon: facebook
+        href: https://www.facebook.com/beachscience/
+
+      - icon: instagram
+        href: https://www.instagram.com/sandybeachscience 
   
   sidebar:
     style: docked
