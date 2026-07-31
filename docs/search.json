@@ -1,32 +1,32 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "International Sandy Beach Symposium",
-    "section": "",
-    "text": "The International Sandy Beach Symposium is a triennial conference focused on the environmental, social and economic dimensions of sandy beach science, conservation, and management. First held in South Africa in 1983, the symposium returns to the Eastern Cape for ISBS10.\nThe 10th International Sandy Beach Symposium will be held at the Cape St Francis Resort, 21-27 June 2027. See you there!",
-    "crumbs": [
-      "Register",
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#partners-and-sponsors",
-    "href": "index.html#partners-and-sponsors",
-    "title": "International Sandy Beach Symposium",
-    "section": "Partners and sponsors",
-    "text": "Partners and sponsors",
-    "crumbs": [
-      "Register",
-      "Home"
-    ]
-  },
-  {
     "objectID": "workshopprep.html",
     "href": "workshopprep.html",
     "title": "Workshop preparation",
     "section": "",
     "text": "The biodiversity workshop requires some preparation ahead of the symposium. Completing this work in advance will allow us to focus our time during the workshop on reviewing the data we have collated and planning the related publication.\nThe intent is to establish an online repository of species distributions and richness, summarised as species presence at an ecoregion level. We can then all use this as a living online reference, and as the basis for (1) a paper on global beach biodiversity (discussed at the conference), (2) iNaturalist project(s), and (3) species red listing. We can also use the planned online tools (interactive maps, filterable tables) to promote beaches as diverse ecosystems.\nPlease add as many records as you can to the Excel spreadsheet. Start by focusing on regions you are familiar with. After that, look for gaps in coverage, search for papers and reports, verified/correct iNaturalist records, and verified/correct gbif records, and record species presence in the various ecoregions.\nRequest access to edit the dataset",
+    "crumbs": [
+      "Register",
+      "Workshop preparation"
+    ]
+  },
+  {
+    "objectID": "workshopprep.html#online-biodiversity-repository",
+    "href": "workshopprep.html#online-biodiversity-repository",
+    "title": "Workshop preparation",
+    "section": "",
+    "text": "The biodiversity workshop requires some preparation ahead of the symposium. Completing this work in advance will allow us to focus our time during the workshop on reviewing the data we have collated and planning the related publication.\nThe intent is to establish an online repository of species distributions and richness, summarised as species presence at an ecoregion level. We can then all use this as a living online reference, and as the basis for (1) a paper on global beach biodiversity (discussed at the conference), (2) iNaturalist project(s), and (3) species red listing. We can also use the planned online tools (interactive maps, filterable tables) to promote beaches as diverse ecosystems.\nPlease add as many records as you can to the Excel spreadsheet. Start by focusing on regions you are familiar with. After that, look for gaps in coverage, search for papers and reports, verified/correct iNaturalist records, and verified/correct gbif records, and record species presence in the various ecoregions.\nRequest access to edit the dataset",
+    "crumbs": [
+      "Register",
+      "Workshop preparation"
+    ]
+  },
+  {
+    "objectID": "workshopprep.html#inaturalist-project",
+    "href": "workshopprep.html#inaturalist-project",
+    "title": "Workshop preparation",
+    "section": "iNaturalist project",
+    "text": "iNaturalist project\nThe data from iNaturalist are exceptionally valuable for red listing and species distribution modelling, and this platform is an excellent way to use citizen science to detect species range shifts. A project for macrofauna has been started for our scientific community: Sandy Beach Invertebrates (Global). The species list is not comprehensive - yet; it is a starting point.\nAlthough this is helpful but not essential for the symposium workshop, you’re encouraged to join and promote iNaturalist, contribute records, and work through taxa of interest in our project to check they have been identified correctly.\nSpecies will be added to this project based on the species list created in the Excel spreadsheet. (The intent is to expand the scope of our iNaturalist projects to include other taxa as well, like foredune plants, shorebirds, etc. We can discuss this at ISBS10.)\n\n\n\n\n    Latest observations. Explore more at\n    \n      Sandy Beach Invertebrates (Global) »",
     "crumbs": [
       "Register",
       "Workshop preparation"
@@ -103,7 +103,7 @@
     "href": "proceedings.html",
     "title": "Conference proceedings",
     "section": "",
-    "text": "A Virtual Special Issue of Estuarine, Coastal and Shelf Science has been requested. The journal decision is pending but feedback is that it is most likely to be supported. We will update this page with further information when available.\nSee the ISBS10 archive for examples of past conference proceedings.",
+    "text": "A Virtual Special Issue of Estuarine, Coastal and Shelf Science has been requested. The final journal decision is pending but feedback to date is that it most likely will be supported. We will update this page with further information when available.\nSee the ISBS10 archive for examples of past conference proceedings.",
     "crumbs": [
       "Register",
       "Conference proceedings"
@@ -129,6 +129,28 @@
     "crumbs": [
       "Register",
       "ISBS archive"
+    ]
+  },
+  {
+    "objectID": "contactus.html",
+    "href": "contactus.html",
+    "title": "Contact us",
+    "section": "",
+    "text": "Technical team for queries regarding registration, payment, and abstract submissions\nregistration@easternsun.co.za\nExtending your stay at Cape St Francis Resort\nbetty@capestfrancisresort.co.za\nOther\ninfo@beachsymposium.org",
+    "crumbs": [
+      "Register",
+      "Contact us"
+    ]
+  },
+  {
+    "objectID": "accommodation.html",
+    "href": "accommodation.html",
+    "title": "Accommodation",
+    "section": "",
+    "text": "Cape St Francis has the following accommodation options:\nVillas (4-5 bedrooms)\nCottages (3-4 bedrooms)\nApartments (1-3 bedrooms)\nThe rooms are twin or double beds where you can stay on your own or share. Most rooms have en suite bathrooms; some have shared bathrooms. We will do our best to give everyone their first or second choice, but note that accommodation allocations will be on a first come (register and pay), first serve basis - so register soon to secure your ideal spot!\nFor those who will be sharing rooms and/or units, there will be an option in the registration form to indicate who you would like to share with. It would be very helpful if you could identify who the person/people is/are that you will share with, and then both indicate each other in the form so that we can match everyone up according to your preferences. If whole research groups would like to share one of the larger units with multiple bedrooms, please list all the people you’d like to share the unit with.\nIf you would like to extend your stay before or after the conference, you are welcome to book extra days at the Cape St Francis Resort. Please book this with the resort directly by email. Let them know you are part of the ISBS10 delegation to take advantage of our group rate. Note that your accommodation booking for the conference is from 20-27 June 2027.",
+    "crumbs": [
+      "Register",
+      "Accommodation"
     ]
   },
   {
@@ -176,25 +198,36 @@
     ]
   },
   {
-    "objectID": "accommodation.html",
-    "href": "accommodation.html",
-    "title": "Accommodation",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "International Sandy Beach Symposium",
     "section": "",
-    "text": "Cape St Francis has the following accommodation options:\nVillas (4-5 bedrooms)\nCottages (3-4 bedrooms)\nApartments (1-3 bedrooms)\nThe rooms are twin or double beds where you can stay on your own or share. Most rooms have en suite bathrooms; some have shared bathrooms. We will do our best to give everyone their first or second choice, but note that accommodation allocations will be on a first come (register and pay), first serve basis - so register soon to secure your ideal spot!\nFor those who will be sharing rooms and/or units, there will be an option in the registration form to indicate who you would like to share with. It would be very helpful if you could identify who the person/people is/are that you will share with, and then both indicate each other in the form so that we can match everyone up according to your preferences. If whole research groups would like to share one of the larger units with multiple bedrooms, please list all the people you’d like to share the unit with.\nIf you would like to extend your stay before or after the conference, you are welcome to book extra days at the Cape St Francis Resort. Please book this with the resort directly by email. Let them know you are part of the ISBS10 delegation to take advantage of our group rate. Note that your accommodation booking for the conference is from 20-27 June 2027.",
+    "text": "The International Sandy Beach Symposium is a triennial conference focused on the environmental, social and economic dimensions of sandy beach science, conservation, and management. First held in South Africa in 1983, the symposium returns to the Eastern Cape for ISBS10.\nThe 10th International Sandy Beach Symposium will be held at the Cape St Francis Resort, 21-27 June 2027. See you there!",
     "crumbs": [
       "Register",
-      "Accommodation"
+      "Home"
     ]
   },
   {
-    "objectID": "contactus.html",
-    "href": "contactus.html",
-    "title": "Contact us",
-    "section": "",
-    "text": "Technical team for queries regarding registration, payment, and abstract submissions\nregistration@easternsun.co.za\nExtending your stay at Cape St Francis Resort\nbetty@capestfrancisresort.co.za\nOther\ninfo@beachsymposium.org",
+    "objectID": "index.html#important-dates",
+    "href": "index.html#important-dates",
+    "title": "International Sandy Beach Symposium",
+    "section": "Important dates",
+    "text": "Important dates\n31 July 2026 Call for abstracts and registration opens\nOctober/November 2026 Conference sponsorship call (to be confirmed)\n31 December 2026 Deadline for cancellation refunds (100% of fees)\n26 February 2027 Abstract submission closes\n25 March 2027 Notification of outcome of abstract submission\n31 March 2027 Last day for cancellation refunds (50% of fees)\n30 April 2027 Full conference registration and merchandise orders close\n14 May 2027 Day registration closes\n20 June 2027 Arrival day for ISBS10",
     "crumbs": [
       "Register",
-      "Contact us"
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#partners-and-sponsors",
+    "href": "index.html#partners-and-sponsors",
+    "title": "International Sandy Beach Symposium",
+    "section": "Partners and sponsors",
+    "text": "Partners and sponsors",
+    "crumbs": [
+      "Register",
+      "Home"
     ]
   },
   {
@@ -404,39 +437,6 @@
     "crumbs": [
       "Register",
       "Tourism information"
-    ]
-  },
-  {
-    "objectID": "workshopprep.html#online-biodiversity-repository",
-    "href": "workshopprep.html#online-biodiversity-repository",
-    "title": "Workshop preparation",
-    "section": "",
-    "text": "The biodiversity workshop requires some preparation ahead of the symposium. Completing this work in advance will allow us to focus our time during the workshop on reviewing the data we have collated and planning the related publication.\nThe intent is to establish an online repository of species distributions and richness, summarised as species presence at an ecoregion level. We can then all use this as a living online reference, and as the basis for (1) a paper on global beach biodiversity (discussed at the conference), (2) iNaturalist project(s), and (3) species red listing. We can also use the planned online tools (interactive maps, filterable tables) to promote beaches as diverse ecosystems.\nPlease add as many records as you can to the Excel spreadsheet. Start by focusing on regions you are familiar with. After that, look for gaps in coverage, search for papers and reports, verified/correct iNaturalist records, and verified/correct gbif records, and record species presence in the various ecoregions.\nRequest access to edit the dataset",
-    "crumbs": [
-      "Register",
-      "Workshop preparation"
-    ]
-  },
-  {
-    "objectID": "workshopprep.html#inaturalist-project",
-    "href": "workshopprep.html#inaturalist-project",
-    "title": "Workshop preparation",
-    "section": "iNaturalist project",
-    "text": "iNaturalist project\nThe data from iNaturalist are exceptionally valuable for red listing and species distribution modelling, and this platform is an excellent way to use citizen science to detect species range shifts. A project for macrofauna has been started for our scientific community: Sandy Beach Invertebrates (Global). The species list is not comprehensive - yet; it is a starting point.\nAlthough this is helpful but not essential for the symposium workshop, you’re encouraged to join and promote iNaturalist, contribute records, and work through taxa of interest in our project to check they have been identified correctly.\nSpecies will be added to this project based on the species list created in the Excel spreadsheet. (The intent is to expand the scope of our iNaturalist projects to include other taxa as well, like foredune plants, shorebirds, etc. We can discuss this at ISBS10.)\n\n\n\n\n    Latest observations. Explore more at\n    \n      Sandy Beach Invertebrates (Global) »",
-    "crumbs": [
-      "Register",
-      "Workshop preparation"
-    ]
-  },
-  {
-    "objectID": "index.html#important-dates",
-    "href": "index.html#important-dates",
-    "title": "International Sandy Beach Symposium",
-    "section": "Important dates",
-    "text": "Important dates\n31 July 2026 Call for abstracts and registration opens\nOctober/November 2026 Conference sponsorship call (to be confirmed)\n31 December 2026 Deadline for cancellation refunds (100% of fees)\n26 February 2027 Abstract submission closes\n25 March 2027 Notification of outcome of abstract submission\n31 March 2027 Last day for cancellation refunds (50% of fees)\n30 April 2027 Full conference registration and merchandise orders close\n14 May 2027 Day registration closes\n20 June 2027 Arrival day for ISBS10",
-    "crumbs": [
-      "Register",
-      "Home"
     ]
   }
 ]
