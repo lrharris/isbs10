@@ -52,7 +52,7 @@ format:
     theme:
       - sandstone
       - brand
-    css: styles.css?v=2
+    css: styles.css
     toc: true
     toc-depth: 3
     toc-location: right
