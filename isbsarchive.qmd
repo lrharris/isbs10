@@ -33,7 +33,7 @@ Florence, Italy \| 18-23 October 2001
 
 Vigo, Spain \| 9-13 September 2006
 
-[Book of abstracts]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"} [Conference proceedings]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"}
+[Book of abstracts]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"} [Conference proceedings](https://onlinelibrary.wiley.com/toc/14390485/2008/29/s1){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
 :::
 
 ::: {#isbsV .callout-note collapse="true" icon="false"}
@@ -57,7 +57,7 @@ Mpekweni, South Africa \| 23-28 June 2012
 
 Ilhabella, Brazil \| 6-10 July 2015
 
-[Book of abstracts]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"} [Conference proceedings]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"}
+[Book of abstracts]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"} [Conference proceedings](https://www.scielo.br/j/bjoce/i/2016.v64nspe2/?ilang=en){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
 :::
 
 ::: {#isbsVIII .callout-note collapse="true" icon="false"}
@@ -65,7 +65,7 @@ Ilhabella, Brazil \| 6-10 July 2015
 
 Greece \| 2018
 
-[Book of abstracts]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"} [Conference proceedings]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"}
+[Book of abstracts]{.btn .btn-secondary target="_blank" rel="noopener noreferrer"} [Conference proceedings](https://www.sciencedirect.com/special-issue/10P8S0NHSLK){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
 :::
 
 ::: {#isbsIX .callout-note collapse="true" icon="false"}
